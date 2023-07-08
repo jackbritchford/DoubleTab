@@ -11,4 +11,5 @@ document.addEventListener('DOMContentLoaded', function () {
         chrome.storage.sync.set({ notificationSetting: notifySelect.value }, function () {
             console.log('Notification setting is ' + notifySelect.value);
         });
-    });
+    })
+});
