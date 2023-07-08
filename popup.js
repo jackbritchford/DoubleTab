@@ -12,4 +12,3 @@ document.addEventListener('DOMContentLoaded', function () {
             console.log('Notification setting is ' + notifySelect.value);
         });
     });
-});
