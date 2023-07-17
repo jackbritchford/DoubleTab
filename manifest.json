@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "DoubleTap - Duplicate Tab Detector",
   "description": "This extension notifies you when you open a duplicate link in the same window or across all windows.",
-  "version": "0.1",
+  "version": "0.2.1",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
